@@ -3,6 +3,8 @@
     "package": "ediblecity",
     "url": "https://github.com/icra/ediblecity"
   },
+  {
     "package": "credit",
     "url": "https://github.com/jospueyo/credit"
+   }
 ]
